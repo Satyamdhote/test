@@ -1,0 +1,35 @@
+div {
+  display: inline-block;
+}
+
+thead {
+  color: lightblue;
+  background-color: lightcoral;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+tbody {
+  background-color: lightsalmon;
+  font-size: 1.5rem;
+  color: chocolate;
+  word-spacing: 2px;
+  width: 100px;
+  height: 100px;
+}
+
+th {
+  width: 100px;
+  height: 100px;
+}
+
+#myTable {
+  width: 1000px;
+  height: 1000px;
+}
+
+#flag {
+  width: 100px;
+  height: 100px;
+}
